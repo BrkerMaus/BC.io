@@ -274,7 +274,7 @@ footer .text span a:hover{
   }
   nav .navbar .menu{
     position: fixed;
-    left: -100%;
+    left: 100%;
     top: 0;
     background: #000000;
     height: 100vh;
@@ -286,7 +286,7 @@ footer .text span a:hover{
     transition: all 0.5s ease;
   }
   .navbar.active .menu{
-    left: 0;
+    left: -11%;
   }
   nav .navbar .menu a{
     font-size: 23px;
