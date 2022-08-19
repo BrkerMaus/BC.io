@@ -286,7 +286,7 @@ footer .text span a:hover{
     transition: all 0.5s ease;
   }
   .navbar.active .menu{
-    left: -11%;
+    left: -8%;
   }
   nav .navbar .menu a{
     font-size: 23px;
